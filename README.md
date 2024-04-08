@@ -5,18 +5,11 @@
 ----
 Olá, sou Mateus Guerra, estudante de Ciências da Computação. Desde criança, sou fascinado pela tecnologia, buscando aprender e aplicar meus conhecimentos em diversos projetos pessoais. Estou sempre em busca de crescimento e novas oportunidades dentro dessa área dinâmica e em constante evolução.
 
+# projeos
 
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Projetos.</h1></summary>
-</div>
-
-
-* sua mae?
-
-  [Youtube](https://www.youtube.com/watch?v=kB5e-gTAl_s)
-
+* [site ong :](https://site-ong-seven.vercel.app)
+Com o apoio dos meus colegas de turma, colaboramos para o desenvolvimento de um website destinado a uma ONG, com o propósito de ilustrar como eles poderiam ampliar sua presença online e expandir seu impacto. Durante esse processo, tive a oportunidade de aprimorar minhas habilidades em programação web, incluindo HTML, CSS e JavaScript, e compartilhei meu código no GitHub para possibilitar colaborações futuras e demonstrar meu progresso.
+  
 
 
 <div align="center">
