@@ -12,7 +12,7 @@ Olá, sou Mateus Guerra, estudante de Ciências da Computação. Desde criança,
 
 
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -37,8 +37,8 @@ Olá, sou Mateus Guerra, estudante de Ciências da Computação. Desde criança,
 
 ---
 
-<p align="left">
-  <img height = "300" align="center" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" alt="Imagem" >
+<p align="center">
+  <img height = "500" align="center" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" alt="Imagem" >
 </p>
 
 
