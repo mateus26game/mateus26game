@@ -5,20 +5,13 @@
 ----
 Olá, sou Mateus Guerra, estudante de Ciências da Computação. Desde criança, sou fascinado pela tecnologia, buscando aprender e aplicar meus conhecimentos em diversos projetos pessoais. Estou sempre em busca de crescimento e novas oportunidades dentro dessa área dinâmica e em constante evolução.
 
-# projeos
-
+# projeos: 
 * [site ong :](https://site-ong-seven.vercel.app)
 Com o apoio dos meus colegas de turma, colaboramos para o desenvolvimento de um website destinado a uma ONG, com o propósito de ilustrar como eles poderiam ampliar sua presença online e expandir seu impacto. Durante esse processo, tive a oportunidade de aprimorar minhas habilidades em programação web, incluindo HTML, CSS e JavaScript, e compartilhei meu código no GitHub para possibilitar colaborações futuras e demonstrar meu progresso.
   
 
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
