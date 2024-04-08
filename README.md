@@ -1,5 +1,8 @@
-### hello World :) 👋
----
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=48&pause=1000&center=true&vCenter=true&random=false&width=475&height=66&lines=Hello+World;Me+chamo+Mateus!;%3A+)" alt="Typing SVG" /></a>
+
+----
 Olá, sou Mateus Guerra, estudante de Ciências da Computação. Desde criança, sou fascinado pela tecnologia, buscando aprender e aplicar meus conhecimentos em diversos projetos pessoais. Estou sempre em busca de crescimento e novas oportunidades dentro dessa área dinâmica e em constante evolução.
 * sua mae?
 
