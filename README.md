@@ -25,7 +25,7 @@ Com o apoio dos meus colegas de turma, colaboramos para o desenvolvimento de um 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateus26game&layout=donut&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats) 
 
 
-  [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.youtube.com/watch?v=f2OKhUdU4ks) 
+  [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() 
   [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-guerra-117637280/)
   [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/558196836797)
 
