@@ -11,8 +11,8 @@ Olá, sou Mateus Guerra, estudante de Ciências da Computação. Desde criança,
 
 ----
 
-<div style="margin-bottom:100px; display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img height="300" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" alt="Imagem"  min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode" />
+<div style="margin-bottom:10px; display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img height="300" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" alt="Imagem"  min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode" />
   <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus26game&layout=donut&show_icons=true&theme=react" alt="Top Langs" />
 </div>
 
