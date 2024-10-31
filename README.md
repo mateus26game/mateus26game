@@ -5,6 +5,8 @@
 ----
 Olá, sou Mateus Guerra, estudante de Ciências da Computação. Desde criança, sou fascinado pela tecnologia, buscando aprender e aplicar meus conhecimentos em diversos projetos pessoais. Estou sempre em busca de crescimento e novas oportunidades dentro dessa área dinâmica e em constante evolução.
 
+
+
 Últimos Projetos
 --
 java 
@@ -22,12 +24,9 @@ node/ Express
   
 * login-Node.js -> [Link do projeto]
 
+---
+<img src="https://skillicons.dev/icons?i=androidstudio,java,spring,angular,nodejs,js,cs,dotnet" />
 
-
-
-## My Skills
-
-<img src="https://skillicons.dev/icons?i=androidstudio,java,spring,angular,nodejs,html,css,js,git,github,cs,dotnet" />
 
 ---
 
@@ -37,6 +36,8 @@ node/ Express
 </div>     
 
 ---
+
+
 
  # Formas de contato 
 
