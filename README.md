@@ -5,16 +5,39 @@
 ----
 Olá, sou Mateus Guerra, estudante de Ciências da Computação. Desde criança, sou fascinado pela tecnologia, buscando aprender e aplicar meus conhecimentos em diversos projetos pessoais. Estou sempre em busca de crescimento e novas oportunidades dentro dessa área dinâmica e em constante evolução.
 
+Últimos Projetos
+--
+java 
+* Chat Bot com IA ->  [Link do projeto] ㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+  
+* Projeto Prefeitura -> [Link do projeto]
+ 
+*  App do iFood -> [Link do projeto] 
+
+node/ Express
+
+* Blog Node -> [Link do projeto]
+
+* API Node Express -> [Link do projeto]
+  
+* login-Node.js -> [Link do projeto]
+
+
+
+
 ## My Skills
 
-<img src="https://skillicons.dev/icons?i=java,spring,html,css,js,git,github,cs,dotnet" />
+<img src="https://skillicons.dev/icons?i=androidstudio,java,spring,angular,nodejs,html,css,js,git,github,cs,dotnet" />
 
 ----
 
+
 <div style="margin-bottom:10px; display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img height="300" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" alt="Imagem"  min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode" />
+  <img height="300" src="https://art.pixilart.com/0e207d1322d8c04.gif" alt="Imagem"  min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode" />
   <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus26game&layout=donut&show_icons=true&theme=react" alt="Top Langs" />
-</div>
+</div>     
+
+
 
 
   [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() 
