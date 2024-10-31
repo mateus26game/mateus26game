@@ -29,25 +29,23 @@ node/ Express
 
 <img src="https://skillicons.dev/icons?i=androidstudio,java,spring,angular,nodejs,html,css,js,git,github,cs,dotnet" />
 
-----
-
+---
 
 <div style="margin-bottom:10px; display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img height="300" src="https://art.pixilart.com/0e207d1322d8c04.gif" alt="Imagem"  min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode" />
   <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus26game&layout=donut&show_icons=true&theme=react" alt="Top Langs" />
 </div>     
 
+---
 
+ # Formas de contato 
 
 
   [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() 
   [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-guerra-117637280/)
   [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/558196836797)
   
----
 
-
- &nbsp;
 
  ![Snake Animation](https://github.com/luucasdinoo/luucasdinoo/blob/output/github-contribution-grid-snake.svg)
 
